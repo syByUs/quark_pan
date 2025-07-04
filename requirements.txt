@@ -1,0 +1,17 @@
+httpx #网络请求
+retrying==1.3.4
+prettytable==3.10.0
+playwright==1.43.0 #用于登录夸克网盘
+tqdm>=4.66.3
+colorama
+pandas==2.0.3
+numpy==1.23.3
+cozepy # coze
+psutil
+selenium # 网页自动化测试，用于X发推文
+requests
+python-telegram-bot
+opencv-python>=4.8.0
+Pillow>=10.0.0
+tweepy==4.14.0
+lark_oapi #飞书
