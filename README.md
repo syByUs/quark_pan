@@ -54,9 +54,22 @@ driver_me.py 启动夸克网盘分享
 操作页面，输入cookies，点击发送按钮，即会将网盘链接自动分享到你的网盘；
 ![image](https://github.com/user-attachments/assets/5f8439bd-55fa-40c7-a876-78bcb1e020d7)
 <br>
-### 如何获取cookie
-[点我查看](https://github.com/spider-ios/autox-release/blob/main/cookie-helper/README.md)
 
+### Coze自定义分享流程
+- 完整的夸克网盘分享工作流
+- 自动查询飞书表格网盘链接
+- 自动插入到Coze数据库
+- 通过微信可实现公众号自动回复资源，参考微信公众号#小米果来了，回复【Coze】
+
+我这里有完整的工作流
+![image](https://github.com/user-attachments/assets/93707da8-e3aa-48f4-8230-ad7641ac9c1f)
+
+
+### 可加微信
+微信号【shareMinder002】
+
+### 电报群
+[点我](https://t.me/meirenpan)
 
 
 ## 许可证
